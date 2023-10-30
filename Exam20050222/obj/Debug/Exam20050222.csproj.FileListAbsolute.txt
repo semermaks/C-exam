@@ -1,0 +1,16 @@
+C:\Users\chuwi\source\repos\Exam20050222\Exam20050222\bin\Debug\Exam20050222.exe.config
+C:\Users\chuwi\source\repos\Exam20050222\Exam20050222\bin\Debug\Exam20050222.exe
+C:\Users\chuwi\source\repos\Exam20050222\Exam20050222\bin\Debug\Exam20050222.pdb
+C:\Users\chuwi\source\repos\Exam20050222\Exam20050222\obj\Debug\Exam20050222.csproj.AssemblyReference.cache
+C:\Users\chuwi\source\repos\Exam20050222\Exam20050222\obj\Debug\Exam20050222.csproj.SuggestedBindingRedirects.cache
+C:\Users\chuwi\source\repos\Exam20050222\Exam20050222\obj\Debug\MainWindow.g.cs
+C:\Users\chuwi\source\repos\Exam20050222\Exam20050222\obj\Debug\App.g.cs
+C:\Users\chuwi\source\repos\Exam20050222\Exam20050222\obj\Debug\Exam20050222_MarkupCompile.cache
+C:\Users\chuwi\source\repos\Exam20050222\Exam20050222\obj\Debug\Exam20050222_MarkupCompile.lref
+C:\Users\chuwi\source\repos\Exam20050222\Exam20050222\obj\Debug\MainWindow.baml
+C:\Users\chuwi\source\repos\Exam20050222\Exam20050222\obj\Debug\Exam20050222.g.resources
+C:\Users\chuwi\source\repos\Exam20050222\Exam20050222\obj\Debug\Exam20050222.Properties.Resources.resources
+C:\Users\chuwi\source\repos\Exam20050222\Exam20050222\obj\Debug\Exam20050222.csproj.GenerateResource.cache
+C:\Users\chuwi\source\repos\Exam20050222\Exam20050222\obj\Debug\Exam20050222.csproj.CoreCompileInputs.cache
+C:\Users\chuwi\source\repos\Exam20050222\Exam20050222\obj\Debug\Exam20050222.exe
+C:\Users\chuwi\source\repos\Exam20050222\Exam20050222\obj\Debug\Exam20050222.pdb
